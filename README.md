@@ -14,4 +14,6 @@ Experiments to Java OOP.
 
 * * *
 
+P.S:For visitors, the codes are open-sourced, but please make it seems different from mine before you use it as your own experiment code.
+
 By ZHRMoe Studio, 2015.
